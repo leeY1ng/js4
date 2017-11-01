@@ -1,0 +1,17 @@
+{
+  "name": "js4",
+  "authors": [
+    "leeY1ng <869500351@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
